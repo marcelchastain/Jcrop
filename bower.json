@@ -1,0 +1,14 @@
+{
+  "name": "marcelchastain/Jcrop",
+  "version": "1.0.0",
+  "main": "css/jquery.Jcrop.css",
+  "description": "jcrop",
+  "license": "Eclipse",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": "^1.10.0",
+  }
+}
